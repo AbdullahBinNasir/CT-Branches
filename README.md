@@ -1,5 +1,5 @@
 # Introduction
-In This Application User Will Be AbLE To Make Branches 
+In This Application User Will Be Able To Make Branches 
 
 ## Installation Commands
 Run These Commands If Apllication Is Not Running
