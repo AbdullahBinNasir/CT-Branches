@@ -12,4 +12,4 @@ Run These Commands If Apllication Is Not Running
 ### ScreenShots
 
 <img src="Screenshots/Screenshot1.jpg" width="350px">
-<img src="screenshots/Screenshot2.jpg" width="350px">
+<img src="screenshots/screenshot2.jpg" width="350px">
